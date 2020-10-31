@@ -10259,3 +10259,47 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.register .nav-tabs .nav-link:hover{
+  border: none;
+}
+.text-align{
+  margin-top: -3%;
+  margin-bottom: -9%;
+
+  padding: 10%;
+  margin-left: 30%;
+}
+.form-new{
+  margin-right: 22%;
+  margin-left: 20%;
+}
+.register-heading{
+  margin-left: 21%;
+  margin-bottom: 10%;
+  color: #e9ecef;
+}
+.register-heading h1{
+  margin-left: 21%;
+  margin-bottom: 10%;
+  color: #e9ecef;
+}
+.register{
+  background: -webkit-linear-gradient(left, #59aae9, #379eef);
+  margin-top: 3%;
+  padding: 3%;
+  border-radius: 2rem;
+}
+.btnSubmit
+{
+  width: 50%;
+  border-radius: 1rem;
+  padding: 1.5%;
+  color: #fff;
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+  margin-right: 6%;
+  color: rgba(0, 0, 0, 0.637);
+  margin-top: 4%;
+}
