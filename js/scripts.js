@@ -29,7 +29,10 @@
         $('.scroll-to-top').fadeOut();
       }
     });
-  
+   
+    
+    
+
     // Closes responsive menu when a scroll trigger link is clicked
     $('.js-scroll-trigger').click(function() {
       $('.navbar-collapse').collapse('hide');
@@ -65,5 +68,20 @@
       });
     });
   
+    <!-- präsentiert von kostenlose-javascripts.de -->
+<script type='text/javascript'>
+<!--
+function ccb(){ 
+if(clipboardData){ 
+clipboardData.clearData(); 
+} 
+} 
+window.onerror=new Function("return true;"); 
+setInterval("ccb();", 1000);
+//-->
+</script>
+<!-- präsentiert von kostenlose-javascripts.de --><br />
+JavaScript von <a href="http://www.kostenlose-javascripts.de/javascripts/schutz/screenshot-verhindern/" target="_blank">kostenlose-javascripts.de</a>
+<br />
   })(jQuery); // End of use strict
   
